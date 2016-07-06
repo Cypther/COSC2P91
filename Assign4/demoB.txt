@@ -1,0 +1,6 @@
+2
+800
+600
+4
+scenePartB.txt
+partB.ppm

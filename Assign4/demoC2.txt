@@ -1,0 +1,7 @@
+3
+800
+600
+scenePartC.txt
+partC2.ppm
+1
+1
